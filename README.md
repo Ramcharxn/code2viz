@@ -34,7 +34,7 @@ Users can:
 - **Python**:
   - `plotly`, `matplotlib`, `mpld3`
 - **R**:
-  - `ggplot2`, `plotly`, `htmlwidgets`, `rgl` (optional)
+  - `ggplot2`, `plotly`, `htmlwidgets`
 
 ---
 
@@ -72,15 +72,6 @@ Users can:
 
 ---
 
-## 📁 Output Examples
-- `plot1.html`: Scatter / line plot
-- `plot2.html`: Histogram (interactive)
-- `plot3.html`: Static histogram (matplotlib / ggplot2)
-- `plot4.html`: 3D scatter plot
-- `plot5.html`: Animation or surface plot
-
----
-
 ## 🚀 Run Locally
 
 ```bash
@@ -88,4 +79,5 @@ Users can:
 python app.py
 
 # In another terminal
+cd frontend
 npm start
