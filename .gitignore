@@ -1,0 +1,9 @@
+# Ignore static and templates directories
+/static/
+/templates/
+
+# Ignore node_modules inside frontend
+/frontend/node_modules/
+
+/frontend/.parcel-cache/
+frontend/.env
